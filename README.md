@@ -1,4 +1,4 @@
-# Web Development Internship Project
+# Information Management Internship Project
 
 ## To the best of your abilities, please complete the following tasks:
  

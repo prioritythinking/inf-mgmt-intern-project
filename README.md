@@ -8,6 +8,6 @@ Because this position for the summer of 2021 will be remote, it is important tha
  
 - Look over the SurveyData.txt JSON file which is the result of an API call to a survey platform called Alchemer (formerly SurveyGizmo). Write a SQL "Create Table" script for three tables; Pages, Questions, and Question_Options which will store the respective Json data. Please include the necessary keys and constraints.
 - Using the Process Flow Diagram Template, outline the process you would write to parse the Json data into the database tables in an ASP.NET web application. Provide reference to any ASP.NET packages you would use to assist in this task. No need to write code for this task.
-- Find the Alchemer REST API documentation and build a Version 5 PUT call to create a required question with type "essay" at the top of the second page of the survey which has a survey ID of "123456".
+- Find the Alchemer REST API documentation and build a Version 5 PUT call to create a required question with type "essay" at the top of the second page of the survey which has a survey ID of "123456". Do not worry about the api_token and api_token_secret parameters.
 
 https://prioritythinking.com

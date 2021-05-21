@@ -2,7 +2,7 @@
 
 This task was designed to reflect some of the day-to-day tasks we expect our information management department interns to be able to perform. Once you have completed, please email the project in a zipped folder.
 
-Because this position for the summer of 2021 will be remote, it is important that applicants are able to work independently given a set of business requirements. This is simply meant to be a tool for us to gauge your abilities in process design, problem solving, and time management. Please do not spend more than one hour on this task.
+Because this position for the summer of 2021 will be remote, it is important that applicants are able to work independently given a set of business requirements. This is simply meant to be a tool for us to gauge your abilities in process design, problem solving, and time management. Please do not spend more than 90 minutes on this task and be prepared to discuss your work during the technical interview.
 
 ## To the best of your abilities, please complete the following tasks:
  
